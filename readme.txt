@@ -10,7 +10,7 @@ The 03TALK Personal Conference Call plugin allows you to create, edit and displa
 
 == Description ==
 
-Set up an instant conference with 03TALK and take advantage of conference calls at UK landline rates – whether you’re dialling from a fixed line OR your mobile phone.
+Set up an instant conference with 03TALK and take advantage of conference calls at UK landline rates - whether you're dialling from a fixed line OR your mobile phone.
 No additional equipment is required and you can organise your conference call with just one click. You will be given a free, unique and permanent Conference Room Number and PIN. If required, you may also set a time for your call and invite conference delegates via 03TALK.com.
 Relax. You can call 03TALK with the confidence that there will be no nasty surprises when you receive your next phone bill.
 
