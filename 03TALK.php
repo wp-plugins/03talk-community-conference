@@ -2,13 +2,13 @@
 /*
 Plugin Name: 03TALK
 Plugin URI: http://www.03TALK.com
-Description: Create community conferences via Wordpress
+Description: The 03TALK Personal Conference Call plugin allows you to create, edit and display your free and anonymous conference call from within Wordpress. 
 Version: 0.1a
-Author: Mark Dalby, Zimo Communications Ltd
+Author: Zimo Communications Ltd
 Author URI: http://www.markdalby.com
 */
 
-/*  Copyright 2010 Mark Dalby (email : mark@dalbymail.com)
+/*  Copyright 2010 Zimo Communications Limited (email : mark@dalbymail.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 

@@ -3,7 +3,7 @@ Contributors: mdalby
 Donate link: http://03TALK.com
 Tags: Conference, 03TALK, Calling, Calls, Multiple Users, Free, no cost, secure, anonymous
 Requires at least: 2.0.2
-Tested up to: 2.1
+Tested up to: 2.9.1
 Stable tag: trunk
 
 The 03TALK Personal Conference Call plugin allows you to create, edit and display your free and anonymous conference call from within Wordpress. 

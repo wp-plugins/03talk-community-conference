@@ -12,11 +12,8 @@ if  ( jQuery('#barstat').val() == "1"){
 <?php 
 if (get_option(conference_active) == "no")
 {?>
-    <li id="conference_widget1" class="widget conference_widget_1">
-    <h2 class="widgettitle"><?php echo get_option("conference_widget_header"); ?></h2>
-    <input type="hidden" id="barstat" class="barstat" value="0"/>
-    	<div class="textwidget">
 		<div id="conference_container">
+		<input type="hidden" id="barstat" class="barstat" value="0"/>
 		<div id="conference_offline" style="background-color:#<?php echo get_option('conference_widget_color_offline');?>;">
 		<div id="conference_data_container" style="padding-top:70px;">
 		<div class="conference_status_offline" style="background-color:#<?php echo get_option('conference_widget_box_offline');?>;">
@@ -30,14 +27,10 @@ if (get_option(conference_active) == "no")
 		</div><!-- end conference_admin -->
 		<div id="conference_adminbar" style="display:none;"><input id="conference_quickbox"  value="Admin Quick Password" onclick="jQuery('#conference_quickbox').val('');"  name="password" type="textbox"></form></div>
 		</div><!-- end conference_container-->
-	</div>
-    </li> 
+		</div>
 <?php }
 else 
 { ?>
-    <li id="conference_widget1" class="widget conference_widget_1">
-    <h2 class="widgettitle"><?php echo get_option("conference_widget_header"); ?></h2>
-    	<div class="textwidget">
     	    <input type="hidden" id="barstat" class="barstat" value="0"/>
 		<div id="conference_container">
 		<div id="conference_online" style="background-color:#<?php echo get_option('conference_widget_color_online');?>;">
@@ -54,6 +47,4 @@ else
 		<div id="conference_adminbar" style="display:none;"><input id="conference_quickbox" name="password"  value="Admin Quick Password" onclick="jQuery('#conference_quickbox').val('');" type="textbox"></form></div>
 		</div><!-- end conference_online -->
 		</div> <!-- end conference_container -->
-		</div>
-    </li> 
 <?php }
